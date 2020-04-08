@@ -1,0 +1,177 @@
+{
+  "records": [
+    {
+      "doctor": {
+        "specialization": "Doctor",
+        "title": "Dr.",
+        "name": "Dr. Richard Kim",
+        "age": 45,
+        "sex": "Male",
+        "extra": "PHD from the University of British Columbia. Sugeon in residence.",
+        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "phoneNumber": "4316699012"
+      },
+      "address": "16347 76th Avenue, Surrey, BC",
+      "occupation": "Uniqlo Associate",
+      "citizenship": "Citizen of Canada",
+      "carecard": "1235467890",
+      "history": "No Known Allergies. Has had his tonsils removed. Broken multiple bones before.",
+      "name": "Lloyd Longara",
+      "age": 19,
+      "sex": "Male",
+      "extra": "Scheduled for surgery on March 31st.",
+      "image": "data/patientimages/Lloyd Longara.png",
+      "phoneNumber": "6045673345"
+    },
+    {
+      "doctor": {
+        "specialization": "Doctor",
+        "title": "Dr.",
+        "name": "Dr. Richard Kim",
+        "age": 45,
+        "sex": "Male",
+        "extra": "PHD from the University of British Columbia. Sugeon in residence.",
+        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "phoneNumber": "4316699012"
+      },
+      "address": "18345 Birch St, Surrey BC, V5N 9G2",
+      "occupation": "Student at Douglas College",
+      "citizenship": "Canadian Citizen",
+      "carecard": "1234567890",
+      "history": "No allergies. High Blood Sugar Levels.",
+      "name": "Jayden Cang",
+      "age": 19,
+      "sex": "Male",
+      "extra": "",
+      "image": "data/patientimages/Jayden Cang.png",
+      "phoneNumber": "6045512313"
+    },
+    {
+      "doctor": {
+        "specialization": "Doctor",
+        "title": "Dr.",
+        "name": "Dr. Richard Kim",
+        "age": 45,
+        "sex": "Male",
+        "extra": "PHD from the University of British Columbia. Sugeon in residence.",
+        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "phoneNumber": "4316699012"
+      },
+      "address": "3451 1st Avenue, Portland, US\t",
+      "occupation": "Baker",
+      "citizenship": "On Student Visa",
+      "carecard": "1234567890",
+      "history": "N/A",
+      "name": "Allen Vo",
+      "age": 65,
+      "sex": "Male",
+      "extra": "N/A",
+      "image": "data/patientimages/No-image-found.png",
+      "phoneNumber": "2589097874"
+    },
+    {
+      "doctor": {
+        "specialization": "Doctor",
+        "title": "Dr.",
+        "name": "Dr. Richard Kim",
+        "age": 45,
+        "sex": "Male",
+        "extra": "PHD from the University of British Columbia. Sugeon in residence.",
+        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "phoneNumber": "4316699012"
+      },
+      "address": "91010 BurnaBee Drive, Scottsdale, Utah\t",
+      "occupation": "Software Engineer",
+      "citizenship": "US",
+      "carecard": "1013431234",
+      "history": "Mild Seasonal Allergies.",
+      "name": "Alex Vo",
+      "age": 25,
+      "sex": "Male",
+      "extra": "N/A",
+      "image": "data/patientimages/Alex Vo.png",
+      "phoneNumber": "7810001212"
+    },
+    {
+      "doctor": {
+        "specialization": "Doctor",
+        "title": "Dr.",
+        "name": "Dr. Richard Kim",
+        "age": 45,
+        "sex": "Male",
+        "extra": "PHD from the University of British Columbia. Sugeon in residence.",
+        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "phoneNumber": "4316699012"
+      },
+      "address": "16969 avenue, Orentil City, Oregon",
+      "occupation": "Retired",
+      "citizenship": "United States of America",
+      "carecard": "696903123",
+      "history": "Diagnosed with AIDS. On heavy doses of immunosuppressants.",
+      "name": "Logan Kreiser",
+      "age": 69,
+      "sex": "Female",
+      "extra": "Due for weekly checkup until illness decreases",
+      "image": "data/patientimages/No-image-found.png",
+      "phoneNumber": "113-676-1475"
+    },
+    {
+      "doctor": {
+        "specialization": "Doctor",
+        "title": "Dr.",
+        "name": "Dr. Richard Kim",
+        "age": 45,
+        "sex": "Male",
+        "extra": "PHD from the University of British Columbia. Sugeon in residence.",
+        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "phoneNumber": "4316699012"
+      },
+      "address": "7979 BenDover Lane, South Africa",
+      "occupation": "Yoga Instructor",
+      "citizenship": "Citizen of South Africa",
+      "carecard": "9898765123",
+      "history": "Hemmoroids.",
+      "name": "Gursimran Sandhu",
+      "age": 19,
+      "sex": "Male",
+      "extra": "Needs medication refill every 2-4 weeks.",
+      "image": "data/patientimages/Gursimran Sandhu.png",
+      "phoneNumber": "6474201114"
+    },
+    {
+      "doctor": {
+        "specialization": "Doctor",
+        "title": "Dr.",
+        "name": "Dr. Richard Kim",
+        "age": 45,
+        "sex": "Male",
+        "extra": "PHD from the University of British Columbia. Sugeon in residence.",
+        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "phoneNumber": "4316699012"
+      },
+      "address": "42 Wallaby Way, Sydney Australia",
+      "occupation": "Professional Redditor",
+      "citizenship": "Italy",
+      "carecard": "0000000002",
+      "history": "Suffered major blunt trauma injuries as a child from accident.",
+      "name": "Henrique Saito",
+      "age": 13,
+      "sex": "Male",
+      "extra": "N/A",
+      "image": "data/patientimages/Henrique Saito.png",
+      "phoneNumber": "6045318008"
+    }
+  ],
+  "doctors": [
+    {
+      "specialization": "Doctor",
+      "title": "Dr.",
+      "name": "Dr. Richard Kim",
+      "age": 45,
+      "sex": "Male",
+      "extra": "PHD from the University of British Columbia. Sugeon in residence.",
+      "image": "data/doctorimages/Dr. Richard Kim.png",
+      "phoneNumber": "4316699012"
+    }
+  ]
+}
