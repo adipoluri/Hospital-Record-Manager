@@ -12,7 +12,7 @@ import javax.swing.*;
 
 public class Manager {
     public Record records;
-    private String file = "data/RecordData.json";
+    private String file = "src/data/RecordData.json";
     // EFFECTS: Constructs the Manager and starts the program
 
     public Manager() {

@@ -15,7 +15,7 @@ public abstract class Person {
         this.age = 0;
         this.sex = "N/A";
         this.extra = "N/A";
-        this.image = "data/patientimages/No-image-found.png";
+        this.image = "src/data/patientimages/No-image-found.png";
         this.phoneNumber = "0000000000";
     }
 

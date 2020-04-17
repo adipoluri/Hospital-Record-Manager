@@ -8,7 +8,7 @@
         "age": 45,
         "sex": "Male",
         "extra": "PHD from the University of British Columbia. Sugeon in residence.",
-        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "image": "src/data/doctorimages/Dr. Richard Kim.png",
         "phoneNumber": "4316699012"
       },
       "address": "16347 76th Avenue, Surrey, BC",
@@ -20,7 +20,7 @@
       "age": 19,
       "sex": "Male",
       "extra": "Scheduled for surgery on March 31st.",
-      "image": "data/patientimages/Lloyd Longara.png",
+      "image": "src/data/patientimages/Lloyd Longara.png",
       "phoneNumber": "6045673345"
     },
     {
@@ -31,7 +31,7 @@
         "age": 45,
         "sex": "Male",
         "extra": "PHD from the University of British Columbia. Sugeon in residence.",
-        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "image": "src/data/doctorimages/Dr. Richard Kim.png",
         "phoneNumber": "4316699012"
       },
       "address": "18345 Birch St, Surrey BC, V5N 9G2",
@@ -43,7 +43,7 @@
       "age": 19,
       "sex": "Male",
       "extra": "",
-      "image": "data/patientimages/Jayden Cang.png",
+      "image": "src/data/patientimages/Jayden Cang.png",
       "phoneNumber": "6045512313"
     },
     {
@@ -54,7 +54,7 @@
         "age": 45,
         "sex": "Male",
         "extra": "PHD from the University of British Columbia. Sugeon in residence.",
-        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "image": "src/data/doctorimages/Dr. Richard Kim.png",
         "phoneNumber": "4316699012"
       },
       "address": "3451 1st Avenue, Portland, US\t",
@@ -66,7 +66,7 @@
       "age": 65,
       "sex": "Male",
       "extra": "N/A",
-      "image": "data/patientimages/No-image-found.png",
+      "image": "src/data/patientimages/No-image-found.png",
       "phoneNumber": "2589097874"
     },
     {
@@ -77,7 +77,7 @@
         "age": 45,
         "sex": "Male",
         "extra": "PHD from the University of British Columbia. Sugeon in residence.",
-        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "image": "src/data/doctorimages/Dr. Richard Kim.png",
         "phoneNumber": "4316699012"
       },
       "address": "91010 BurnaBee Drive, Scottsdale, Utah\t",
@@ -89,7 +89,7 @@
       "age": 25,
       "sex": "Male",
       "extra": "N/A",
-      "image": "data/patientimages/Alex Vo.png",
+      "image": "src/data/patientimages/Alex Vo.png",
       "phoneNumber": "7810001212"
     },
     {
@@ -100,7 +100,7 @@
         "age": 45,
         "sex": "Male",
         "extra": "PHD from the University of British Columbia. Sugeon in residence.",
-        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "image": "src/data/doctorimages/Dr. Richard Kim.png",
         "phoneNumber": "4316699012"
       },
       "address": "16969 avenue, Orentil City, Oregon",
@@ -112,7 +112,7 @@
       "age": 69,
       "sex": "Female",
       "extra": "Due for weekly checkup until illness decreases",
-      "image": "data/patientimages/No-image-found.png",
+      "image": "src/data/patientimages/No-image-found.png",
       "phoneNumber": "113-676-1475"
     },
     {
@@ -123,7 +123,7 @@
         "age": 45,
         "sex": "Male",
         "extra": "PHD from the University of British Columbia. Sugeon in residence.",
-        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "image": "src/data/doctorimages/Dr. Richard Kim.png",
         "phoneNumber": "4316699012"
       },
       "address": "7979 BenDover Lane, South Africa",
@@ -135,7 +135,7 @@
       "age": 19,
       "sex": "Male",
       "extra": "Needs medication refill every 2-4 weeks.",
-      "image": "data/patientimages/Gursimran Sandhu.png",
+      "image": "src/data/patientimages/Gursimran Sandhu.png",
       "phoneNumber": "6474201114"
     },
     {
@@ -146,7 +146,7 @@
         "age": 45,
         "sex": "Male",
         "extra": "PHD from the University of British Columbia. Sugeon in residence.",
-        "image": "data/doctorimages/Dr. Richard Kim.png",
+        "image": "src/data/doctorimages/Dr. Richard Kim.png",
         "phoneNumber": "4316699012"
       },
       "address": "42 Wallaby Way, Sydney Australia",
@@ -158,8 +158,31 @@
       "age": 13,
       "sex": "Male",
       "extra": "N/A",
-      "image": "data/patientimages/Henrique Saito.png",
+      "image": "src/data/patientimages/Henrique Saito.png",
       "phoneNumber": "6045318008"
+    },
+    {
+      "doctor": {
+        "specialization": "N/A",
+        "title": "N/A",
+        "name": "N/A",
+        "age": 0,
+        "sex": "N/A",
+        "extra": "N/A",
+        "image": "src/data/patientimages/No-image-found.png",
+        "phoneNumber": "0000000000"
+      },
+      "address": "N/A",
+      "occupation": "N/A",
+      "citizenship": "N/A",
+      "carecard": "0000000000",
+      "history": "N/A",
+      "name": "Gordon",
+      "age": 0,
+      "sex": "N/A",
+      "extra": "N/A",
+      "image": "src/data/patientimages/No-image-found.png",
+      "phoneNumber": "0000000000"
     }
   ],
   "doctors": [
@@ -170,7 +193,7 @@
       "age": 45,
       "sex": "Male",
       "extra": "PHD from the University of British Columbia. Sugeon in residence.",
-      "image": "data/doctorimages/Dr. Richard Kim.png",
+      "image": "src/data/doctorimages/Dr. Richard Kim.png",
       "phoneNumber": "4316699012"
     }
   ]
