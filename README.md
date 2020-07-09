@@ -1,4 +1,4 @@
-# My Personal Project
+# My Personal Project for CPSC 210
 
 ## Hospital Record Manager 
 
